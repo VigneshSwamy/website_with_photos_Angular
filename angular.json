@@ -24,9 +24,18 @@
               "src/assets"
             ],
             "styles": [
+              "src/app/css/main.css",
+              "src/app/css/slick.css",
+              "src/app/css/slick-theme.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/app/scripts/html5shiv.min.js",
+              "src/app/scripts/main.js",
+              "src/app/scripts/masonry.js",
+              "src/app/scripts/parallax.min.js",
+              "src/app/scripts/slick.min.js"
+            ]
           },
           "configurations": {
             "production": {
